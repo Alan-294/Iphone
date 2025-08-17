@@ -3,7 +3,7 @@
 - tocar()
 - pausar()
 -  selecionarMusica(String musica)
--  
+  
 # Aparelho Telefônico
 - ligar(String numero)
 - atender()
