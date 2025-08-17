@@ -1,3 +1,8 @@
+
+## Sobre o projeto
+A intenção do projeto é usar a linguagem Java para simular as funcionalidades de um Iphone com orientação a objetos, assim temos um objeto Iphone com funções como reproduzir musicas por exemplo que são simuladas por uma mensagem no terminal
+
+
 ## Funcionalidades modeladas
 # Reprodutor Musical
 - tocar()
